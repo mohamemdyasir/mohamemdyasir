@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Mohamed Yasir
 
-<!--
-**mohamemdyasir/mohamemdyasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+AI & Python Developer passionate about building desktop applications, websites, and AI-powered solutions.
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Artificial Intelligence
+- Prompt Engineering
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 📌 Featured Projects
+
+### 🍽️ Sami Restaurant Website
+Restaurant website with interactive menu.
+
+### 🧪 Laboratory Management System
+Desktop application for laboratory management.
+
+### 🏥 Medical Agency System
+Desktop application for managing medical agencies.
+
+## 📫 Contact
+
+Email: your@email.com
+
+GitHub:
+https://github.com/mohamemdyasir
