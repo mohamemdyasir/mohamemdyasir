@@ -1,9 +1,9 @@
-# Hi 👋 I'm Mohamed Yasir
+Hi 👋 I'm Mohammed Yasir
 
-## 🚀 About Me
+🚀 About Me
 AI & Python Developer passionate about building desktop applications, websites, and AI-powered solutions.
 
-## 💻 Skills
+💻 Skills
 
 - Python
 - Artificial Intelligence
@@ -13,20 +13,20 @@ AI & Python Developer passionate about building desktop applications, websites, 
 - JavaScript
 - Git & GitHub
 
-## 📌 Featured Projects
+📌 Featured Projects
 
-### 🍽️ Sami Restaurant Website
+🍽️ Sami Restaurant Website
 Restaurant website with interactive menu.
 
-### 🧪 Laboratory Management System
+🧪 Laboratory Management System
 Desktop application for laboratory management.
 
-### 🏥 Medical Agency System
+🏥 Medical Agency System
 Desktop application for managing medical agencies.
 
-## 📫 Contact
+📫 Contact
 
-Email: your@email.com
+Email: yasirco62@gmail.com
 
 GitHub:
 https://github.com/mohamemdyasir
